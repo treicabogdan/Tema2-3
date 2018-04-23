@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\bogdan\source\repos\tema2_3\tema2_3\source.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\bogdan\source\repos\tema2_3\tema2_3\source.cpp(86): warning C4018: '<': signed/unsigned mismatch
+  Tema2_3.vcxproj -> C:\Users\Bogdan\source\repos\Tema2_3\Debug\Tema2_3.exe
